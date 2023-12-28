@@ -1,4 +1,4 @@
-Este projeto está sendo desenvolvido para ser coletânea de jogos simples criados exclusivamente com HTML, CSS e Javascript. 
+Este projeto está sendo desenvolvido para ser uma coletânea de jogos simples criados exclusivamente com HTML, CSS e Javascript. 
 O foco do desenvolvimento e da evolução do projeto será a adição contínua de novos jogos, explorando funcionalidades além das inicialmente utilizadas.
 
 Atualmente, o site ainda não está hospedado e conta apenas com dois jogos: Flappy Bird e Genius.
